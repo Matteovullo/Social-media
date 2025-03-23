@@ -1,0 +1,10 @@
+{"web":
+    {
+    "client_id":"227581613892-9l3afdj7e9tat32td10i601rr9gi04vj.apps.googleusercontent.com",
+    "project_id":"tutorial-404116",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"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"
+    }
+}
